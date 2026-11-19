@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "duration": 13.7,
+  "transition_seconds": 0.3,
+  "loop": "tail returns to first shot; first fade interval removed for continuous wrap",
+  "shots": [
+    {
+      "scene": "Atardecer",
+      "source": "06-atardecer",
+      "start": 1,
+      "duration": 3.6,
+      "focal_y": 0.22
+    },
+    {
+      "scene": "Playa desde el aire",
+      "source": "05-dron-cancun",
+      "start": 1,
+      "duration": 3.6,
+      "focal_y": 0.4
+    },
+    {
+      "scene": "Mariscos",
+      "source": "01-gastronomia",
+      "start": 2.05,
+      "duration": 1.8,
+      "focal_y": 0.45
+    },
+    {
+      "scene": "Burritos",
+      "source": "01-gastronomia",
+      "start": 4.2,
+      "duration": 2.6,
+      "focal_y": 0.76,
+      "focal_y_end": 0.52
+    },
+    {
+      "scene": "Casa",
+      "source": "02-sayab-interiores",
+      "start": 0.2,
+      "duration": 3.6,
+      "focal_y": 0.5
+    }
+  ],
+  "identical_shots_on_all_devices": true,
+  "audio": false
+}

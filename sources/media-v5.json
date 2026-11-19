@@ -1,0 +1,30 @@
+{
+  "drive_folder_id": "1QZV7s7skr9zdDYaX1EFV8PBNKurkuywj",
+  "carousel": [
+    {"source_id":"1PZpVoU5X1lJnvFxl6ATZHFWe2vHwKZdh","original":"IMG_5716.mov","file":"12-produccion-gastronomia.mp4","start":0.35,"duration":7.5},
+    {"source_id":"1Nu3Xq88YLABL1BbmUybgr_gW3oHAdrwR","original":"IMG_9268.mov","file":"13-sesion-playa.mp4","start":0.1,"duration":3.9},
+    {"source_id":"1WUfbpPcviKMxUYddqULLtyRtlUdkxZTn","original":"IMG_7872.mov","file":"14-luz-en-set.mp4","start":0.1,"duration":3.9},
+    {"source_id":"11vOm3w1Iv7KgZyODufaPGX-6N6ulRfpk","original":"IMG_9850.mov","file":"15-produccion-barberia.mp4","start":0.05,"duration":2.2}
+  ],
+  "landscape": {
+    "file":"mova-atardecer-1672.webp",
+    "generation":"Built-in image_gen, landscape recreation based on supplied IMG_9764.jpeg",
+    "prompt":"Photorealistic cinematic aerial sunset bay, layered forested mountain islands in silhouette, graceful curved shoreline at lower right, calm reflective water, amber and terracotta horizon fading into dusky mauve. Match the composition of the supplied reference, reconstruct the areas covered by lettering. No text, logos, border or watermark. Central landscape suitable for mobile cropping; naturally subdued foreground for white and terracotta overlay text.",
+    "dimensions":[1672,941],
+    "note":"Recreated landscape, not represented as an original MOVA client photograph. No artificial upscaling."
+  },
+  "network_clip": {
+    "file":"16-mova-conecta.mp4",
+    "authoring":"Higgsfield / native Higgsedit",
+    "script":"scripts/mova-network.js",
+    "media_id":"fcd7072a-926c-4f16-871b-575402458580",
+    "duration":12,
+    "dimensions":[1280,800],
+    "audio":false,
+    "content":"Original MOVA wordmark connects six animated panels: photography/video, branding, marketing, websites, chatbots and automations. No people.",
+    "font":"DM Sans 700, natively verified and registered in Higgsedit",
+    "web_optimization":"Local remux with faststart; image and text reviewed using native rendered frames."
+  },
+  "removed_from_site":["dsc00066-640.webp","dsc00066-1080.webp"],
+  "recovery":"Removed public files remain recoverable through the Site source history. Original user resources are unchanged."
+}

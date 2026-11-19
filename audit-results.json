@@ -1,0 +1,181 @@
+{
+  "html_pages": 18,
+  "images_decoded": 59,
+  "svg_reviewed": [
+    "ombdusman-1.svg",
+    "ombdusman-0.svg",
+    "mova-isotipo.svg",
+    "mova-logo.svg",
+    "mexico-map.svg",
+    "mova-logo-light.svg"
+  ],
+  "videos": [
+    {
+      "file": "assets/00-hero-desktop.mp4",
+      "duration": "12.000000",
+      "size": 1850458,
+      "resolution": "1280x720",
+      "sha256": "d24e9fb1bc708e69fabff93d629555ac954f714bc26a108d173ee5d067325321",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/00-hero-mobile.mp4",
+      "duration": "12.000000",
+      "size": 2497556,
+      "resolution": "720x1280",
+      "sha256": "298d773ab0a8d56aef735ec2020a37206919fbc0f9efd76acb46c003551d7fad",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/01-gastronomia.mp4",
+      "duration": "10.000000",
+      "size": 1932411,
+      "resolution": "720x1280",
+      "sha256": "394ffc980480a838558902501a8592feb532cdbd079e165595d78c10c0825a41",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/02-sayab-interiores.mp4",
+      "duration": "7.000000",
+      "size": 1489934,
+      "resolution": "720x1280",
+      "sha256": "108c3c1263ab6379234fa805d5601aadcf4c7cfc8926fd87e2cf460b04f75b68",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/03-sifrinas-belleza.mp4",
+      "duration": "8.000000",
+      "size": 1192199,
+      "resolution": "720x1280",
+      "sha256": "280e78f5096c6f2f089676074d57d19a724533c4bc58c38e89274009e467d66e",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/04-barberia.mp4",
+      "duration": "8.000000",
+      "size": 1661795,
+      "resolution": "720x1280",
+      "sha256": "1497b75b76df84dd100f15ea89eebdbe8ed5f943847dc4638f4ae9eb9efbd128",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/05-dron-cancun.mp4",
+      "duration": "8.000000",
+      "size": 1422747,
+      "resolution": "720x1280",
+      "sha256": "9efeec6c61754f3dd7a72a52dc35db0c1a9c1c69f67a07d9a63c0ce169eaa924",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/06-atardecer.mp4",
+      "duration": "7.966667",
+      "size": 656571,
+      "resolution": "720x1280",
+      "sha256": "247b2b26bcb71ea19d36660bbd14cc5f1b68ef10c3fc4ddb93f1081ac5e4c799",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/07-detras-de-camaras.mp4",
+      "duration": "8.000000",
+      "size": 1896268,
+      "resolution": "720x1280",
+      "sha256": "4f378705fb7c6d0770a9fe223d67c8ea56411da626e1998f58b9ec7d026b2043",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/08-pre-textil.mp4",
+      "duration": "7.000000",
+      "size": 1383168,
+      "resolution": "720x1280",
+      "sha256": "0fdb6f1262b3216ba813714ff61dbd798b845f1e9632d04a1aeda0dee2ca759b",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/09-lumea.mp4",
+      "duration": "8.000000",
+      "size": 1128287,
+      "resolution": "1280x720",
+      "sha256": "5bbd82b213cf151145f9a81d976fced8ad9098e8127cc04858aa76c416d0c238",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/10-intro-desktop.mp4",
+      "duration": "18.200000",
+      "size": 3024853,
+      "resolution": "1280x720",
+      "sha256": "783384ea3a7aa3a0b6241895a0bdea2ac4a485ebc4ab7666db73b753de089c79",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/10-intro-mobile.mp4",
+      "duration": "18.200000",
+      "size": 3465143,
+      "resolution": "720x1280",
+      "sha256": "d5f2ac6a86a40a1f4318308f9b586e7c81d110ee2a02971c491d5a0080e4b2c2",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/11-intro-desktop.mp4",
+      "duration": "13.700000",
+      "size": 2455450,
+      "resolution": "1280x720",
+      "sha256": "d7173fa7e500fb5dda4216c9944d4860b77685a9eb6d0a33b5c6af1e24ac816e",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/11-intro-mobile.mp4",
+      "duration": "13.700000",
+      "size": 2595892,
+      "resolution": "720x1280",
+      "sha256": "7e3d4e00bb32aaad27d7b39cd454edf9b7ef81b178e1d9176e3a73558070b7a7",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/12-produccion-gastronomia.mp4",
+      "duration": "7.500000",
+      "size": 1111961,
+      "resolution": "540x960",
+      "sha256": "6bb9d5c6236bfb4423025a1d630b25e5b592780c9bd59d40215d17af5c572a46",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/13-sesion-playa.mp4",
+      "duration": "3.916667",
+      "size": 1117923,
+      "resolution": "540x960",
+      "sha256": "abef824d0b8c0c58340f204265cd51b18347203eb32de9c9254c0c8a24bbf792",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/14-luz-en-set.mp4",
+      "duration": "3.916667",
+      "size": 192482,
+      "resolution": "540x960",
+      "sha256": "7b4da0f47d6a95887f81826701fc6a63c1511ac342fb396d294a5ea68957049c",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/15-produccion-barberia.mp4",
+      "duration": "2.208333",
+      "size": 261069,
+      "resolution": "540x960",
+      "sha256": "d23fa43d83f29ac6173edb5ebb8cccc875adb5560104254b563e38005d3078e0",
+      "full_decode": "pass"
+    },
+    {
+      "file": "assets/16-mova-conecta.mp4",
+      "duration": "12.000000",
+      "size": 1038398,
+      "resolution": "1280x800",
+      "sha256": "0931352f71317bc15277f7f3167ae77ec64855b17984e34aba109f453f378e28",
+      "full_decode": "pass"
+    }
+  ],
+  "public_bytes": 41377556,
+  "errors": [],
+  "limitations": [
+    "Desktop browser preview checked; automated mobile/tablet viewport checks blocked by socket EPERM when launching headless Chromium.",
+    "No real-device, Lighthouse or live contact-delivery test performed.",
+    "Static checks are not a penetration test."
+  ]
+}

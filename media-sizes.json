@@ -1,0 +1,68 @@
+[
+  {
+    "file": "00-hero-desktop.mp4",
+    "bytes": 1850458,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "file": "00-hero-mobile.mp4",
+    "bytes": 2497556,
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "file": "01-gastronomia.mp4",
+    "bytes": 1932411,
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "file": "02-sayab-interiores.mp4",
+    "bytes": 1489934,
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "file": "03-sifrinas-belleza.mp4",
+    "bytes": 1192199,
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "file": "04-barberia.mp4",
+    "bytes": 1661795,
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "file": "05-dron-cancun.mp4",
+    "bytes": 1422747,
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "file": "06-atardecer.mp4",
+    "bytes": 656571,
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "file": "07-detras-de-camaras.mp4",
+    "bytes": 1896268,
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "file": "08-pre-textil.mp4",
+    "bytes": 1383168,
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "file": "09-lumea.mp4",
+    "bytes": 1128287,
+    "width": 1280,
+    "height": 720
+  }
+]
