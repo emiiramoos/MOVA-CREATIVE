@@ -53,3 +53,5 @@
  .case-page .case-gallery-gastronomia{grid-template-columns:1fr}
  .case-gallery-gastronomia figure{aspect-ratio:4/5}
 }
+
+.case-page .case-gallery figure:last-child:nth-child(odd){grid-column:auto;max-width:none;justify-self:stretch}
