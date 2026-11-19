@@ -8,3 +8,48 @@
 .case-video-insert .film{max-width:1200px;margin:0 auto}
 .case-video-insert video{width:100%;height:auto;max-height:80svh;object-fit:contain}
 @media(max-width:700px){.cinema-tagline{font-size:clamp(12px,3vw,16px);letter-spacing:.085em;margin-top:15px}.case-video-insert{padding-top:25px;padding-bottom:25px}}
+.sector-overview{display:grid;grid-template-columns:minmax(0,.95fr) minmax(0,1.05fr);gap:clamp(28px,5vw,80px);align-items:center;padding-top:48px;padding-bottom:64px}
+.sector-overview-copy,.sector-overview .sector-proof{min-width:0}
+.sector-overview .sector-intro{padding:0 0 26px}
+.sector-overview .sector-intro h1{font-size:clamp(42px,4.8vw,76px);margin:24px 0;line-height:1.04}
+.sector-overview .sector-lead{display:block}
+.sector-overview .sector-lead>p{max-width:540px}
+.sector-overview .sector-lead .pill-link{margin-top:24px}
+.sector-overview .sector-solutions{padding:0;gap:8px}
+.sector-overview .sector-solutions>span{padding:11px 15px;font-size:12px}
+.sector-overview .sector-proof{padding:0}
+.sector-overview .project-grid{grid-template-columns:1fr;gap:24px}
+.sector-overview .project-grid:has(>.project-card:nth-child(2)){grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.sector-overview .project-card{margin:0}
+.sector-overview .project-image{aspect-ratio:4/5;max-height:620px}
+.sector-overview .project-info{display:block;padding-top:16px}
+.sector-overview .project-info>span{display:block;text-align:left;margin-top:8px}
+.sector-overview .project-info h3{font-size:clamp(22px,2vw,30px)}
+.case-page .case-showcase{gap:clamp(28px,5vw,80px);padding-bottom:40px}
+.case-page .case-gallery{gap:20px;align-items:stretch;padding-top:16px;padding-bottom:32px}
+.case-page .case-gallery figure{margin:0;min-width:0;overflow:hidden}
+.case-page .case-gallery img{width:100%;height:100%;object-fit:cover}
+.case-gallery-joyeria-editorial{grid-template-columns:1fr 1fr;grid-template-rows:repeat(2,minmax(0,1fr));aspect-ratio:1.25}
+.case-gallery-joyeria-editorial figure:first-child{grid-row:span 2}
+.case-gallery-joyeria-editorial figure:last-child img{object-position:50% 45%}
+.case-gallery-gastronomia{grid-template-columns:repeat(3,minmax(0,1fr))}
+.case-gallery-gastronomia figure{aspect-ratio:3/4}
+.case-page .case-note{display:flex;padding-top:12px;padding-bottom:40px}
+@media(max-width:900px){
+ .sector-overview{gap:28px;grid-template-columns:1fr 1fr}
+ .sector-overview .sector-intro h1{font-size:clamp(38px,5vw,54px)}
+ .sector-overview .project-grid:has(>.project-card:nth-child(2)){grid-template-columns:1fr}
+ .sector-overview .project-grid:has(>.project-card:nth-child(2)) .project-image{aspect-ratio:4/3}
+}
+@media(max-width:700px){
+ .sector-overview{grid-template-columns:1fr;gap:30px;padding-top:24px;padding-bottom:36px}
+ .sector-overview .sector-intro h1{font-size:clamp(38px,10vw,54px)}
+ .sector-overview .sector-proof>.eyebrow{margin-bottom:18px}
+ .sector-overview .project-grid:has(>.project-card:nth-child(2)){grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+ .sector-overview .project-grid:has(>.project-card:nth-child(2)) .project-image{aspect-ratio:3/4}
+ .sector-overview .project-info h3{font-size:22px}
+ .case-page .case-gallery{gap:12px;padding-bottom:24px}
+ .case-gallery-joyeria-editorial{aspect-ratio:1.05}
+ .case-page .case-gallery-gastronomia{grid-template-columns:1fr}
+ .case-gallery-gastronomia figure{aspect-ratio:4/5}
+}

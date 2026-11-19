@@ -171,7 +171,7 @@
       "full_decode": "pass"
     }
   ],
-  "public_bytes": 41377556,
+  "public_bytes": 41380983,
   "errors": [],
   "limitations": [
     "Desktop browser preview checked; automated mobile/tablet viewport checks blocked by socket EPERM when launching headless Chromium.",
