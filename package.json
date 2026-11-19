@@ -1,1 +1,1 @@
-{"name":"mova-creative","version":"5.0.0","private":true,"type":"module","scripts":{"build":"python scripts/build.py","test":"node --test tests/*.test.js","audit":"python scripts/audit.py"}}
+{"name":"mova-creative","version":"5.0.0","private":true,"type":"module","scripts":{"build":"python scripts/build.py && python scripts/publish_github_pages.py","pages":"python scripts/publish_github_pages.py","test":"node --test tests/*.test.js","audit":"python scripts/audit.py"}}

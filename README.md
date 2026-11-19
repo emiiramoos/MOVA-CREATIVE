@@ -1,5 +1,19 @@
 # MOVA — Experiencia en movimiento
 
+## Publicación en GitHub Pages
+
+Sitio: https://emiiramoos.github.io/MOVA-CREATIVE/
+
+GitHub Pages publica la rama `main`, carpeta `/ (root)`. La raíz contiene la
+versión pública del sitio y `.nojekyll`, para que la portada sea `index.html`
+y no el README. `dist/` conserva la versión original para el alojamiento Sites.
+
+Después de editar las plantillas, ejecutar `npm run build`. Si solo se modifican
+CSS, JavaScript o medios en `dist/`, ejecutar `npm run pages`. Ambos preparan los
+archivos públicos con el prefijo `/MOVA-CREATIVE/`, incluidos los videos del
+hero, las fuentes, los enlaces internos y las etiquetas canónicas. Incluir los
+archivos generados de la raíz al guardar los cambios en Git.
+
 ## Revisión 10 — Limpieza de contenido y recorrido
 
 La portada muestra el logotipo y «Agencia creativa & digital» centrado debajo, sin enlaces ni controles de pausa. El video permanece en loop mientras la portada está visible. Se retiran los botones del recorrido por sectores y la pausa del carrusel; el carrusel sigue avanzando con mouse o foco sobre él. El ciclo de palabras pasa de 12 a 6 segundos. Servicios enlaza directamente con Metodología y se retira el estudio con sus diálogos.

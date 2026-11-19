@@ -1,0 +1,10 @@
+/* Client-approved removals and media layout, shared by mobile and desktop. */
+.cinema-brand{width:100%;max-width:1100px;text-align:center}
+.cinema-brand h1{margin:0}
+.cinema-tagline{margin:clamp(14px,2vw,28px) 0 0;font-size:clamp(14px,1.4vw,20px);line-height:1.4;letter-spacing:.11em;text-transform:uppercase;color:#fff;font-weight:400;text-shadow:0 2px 12px #0008}
+.cinema-frame>video{pointer-events:none}
+.case-title h1{margin-top:0}
+.case-video-insert{padding-top:36px;padding-bottom:36px}
+.case-video-insert .film{max-width:1200px;margin:0 auto}
+.case-video-insert video{width:100%;height:auto;max-height:80svh;object-fit:contain}
+@media(max-width:700px){.cinema-tagline{font-size:clamp(12px,3vw,16px);letter-spacing:.085em;margin-top:15px}.case-video-insert{padding-top:25px;padding-bottom:25px}}
