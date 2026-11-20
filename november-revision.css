@@ -55,3 +55,23 @@
 }
 
 .case-page .case-gallery figure:last-child:nth-child(odd){grid-column:auto;max-width:none;justify-self:stretch}
+
+/* Video projects: title, description and film form one compact composition. */
+.case-feature{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:clamp(28px,5vw,76px);align-items:center;padding-top:36px;padding-bottom:36px}
+.case-feature-copy{max-width:650px;min-width:0}
+.case-feature h1{font-size:clamp(48px,6.4vw,96px);line-height:1.02;overflow-wrap:anywhere}
+.case-feature-copy>p:not(.case-feature-description){font-size:18px;margin-top:16px}
+.case-feature h2{font-size:clamp(26px,3vw,40px);line-height:1.1;letter-spacing:-.04em;margin:26px 0 16px}
+.case-feature-description{font-size:17px;line-height:1.6;max-width:510px}
+.case-feature .text-link{margin-top:20px}
+.case-feature .film{width:auto;max-width:100%;justify-self:center;margin:0}
+.case-feature .film video{height:min(68svh,620px);width:auto;max-width:100%;object-fit:contain;aspect-ratio:9/16}
+@media(max-width:700px){
+ .case-feature{grid-template-columns:1fr;gap:24px;padding-top:28px;padding-bottom:28px}
+ .case-feature h1{font-size:clamp(42px,11vw,68px)}
+ .case-feature h2{font-size:28px;margin:20px 0 12px}
+ .case-feature-description{font-size:16px}
+ .case-feature-copy>p:not(.case-feature-description){font-size:16px;margin-top:12px}
+ .case-feature .text-link{margin-top:14px}
+ .case-feature .film video{height:auto;width:min(100%,350px);max-height:76svh}
+}
